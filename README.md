@@ -1,3 +1,3 @@
 # Open-Computational-Biology
 
-This is my code that other researchers can use it.
+This is my computational biology code that other researchers can use it.
